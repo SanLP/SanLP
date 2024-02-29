@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanLP
 - 👀 I’m interested in science and coding
 - 🌱 I’m currently learning Python
-- ⚡ Fun fact: I am a scientist
+- ⚡ Fun fact: I am a scientist in healthcare
 
 <!---
 SanLP/SanLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
